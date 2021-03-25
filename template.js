@@ -24,8 +24,7 @@ let licType = (data) => {
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.`}
     else{
-    `
-    GNU GENERAL PUBLIC LICENSE
+    return `GNU GENERAL PUBLIC LICENSE
     Version 3, 29 June 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -701,8 +700,7 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.`
 }}
 
-const structure = (data) => {return `
-# ${data.uTitle} \n
+const structure = (data) => {return `# ${data.uTitle}
 
 ## Description 
 
