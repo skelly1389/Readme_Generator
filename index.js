@@ -1,5 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
+const template = require('./template.js');
 
 inquirer
   .prompt([
@@ -51,7 +52,7 @@ inquirer
     },
   ])
   .then((data) => {
-    fs.writeFile('SAMPLE.md', JSON.stringify(data, null, '\t'), (err) =>
+    fs.writeFile('SAMPLE.md', template.structure(data), (err) =>
       err ? console.log(err) : console.log('Success!')
     );
   });
