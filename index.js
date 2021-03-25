@@ -52,6 +52,7 @@ inquirer
     },
   ])
   .then((data) => {
+    console.log(data.uLicense);
     fs.writeFile('SAMPLE.md', template.structure(data), (err) =>
       err ? console.log(err) : console.log('Success!')
     );
