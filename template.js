@@ -1,5 +1,11 @@
 const cYear = (new Date().getFullYear())
 
+let badge = (data) => {
+    if (data.uLicense == "MIT")
+    {return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`}
+    else {return `[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)`}
+}
+
 let licType = (data) => {
     if (data.uLicense == "MIT") 
     {return `MIT License
@@ -679,11 +685,11 @@ If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
 ${data.uTitle}  Copyright (C) ${cYear}  ${data.uGithub}
-This program comes with ABSOLUTELY NO WARRANTY; for details type \`show w\'.
+This program comes with ABSOLUTELY NO WARRANTY; for details type \`show w'.
 This is free software, and you are welcome to redistribute it
-under certain conditions; type \`show c\' for details.
+under certain conditions; type \`show c' for details.
 
-The hypothetical commands \`show w\' and \`show c\' should show the appropriate
+The hypothetical commands \`show w' and \`show c' should show the appropriate
 parts of the General Public License.  Of course, your program's commands
 might be different; for a GUI interface, you would use an "about box".
 
@@ -701,6 +707,8 @@ Public License instead of this License.  But first, please read
 }}
 
 const structure = (data) => {return `# ${data.uTitle}
+
+${badge(data)}
 
 ## Description 
 
