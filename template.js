@@ -1,27 +1,47 @@
-const structure = (data) => `
+
+
+const structure = (data) => {return `
 # ${data.uTitle} \n
+
 ## Description 
+
 ${data.uDescription}
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
+
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
 ## Installation
+
+${data.uInstall}
 
 ## Usage
 
-## Credits
+${data.uUsage}
 
-## Badges
+## License
 
-## Features
 
-## How to Contribute
+
+## Contributing
+
+${data.uContribute}
 
 ## Tests
+
+${data.uTests}
+
+## Questions
+
+[Github: ${data.uGithub}](https://github.com/${data.uGithub}) \n
+Email: ${data.uEmail}
+
 `
+}
 
 
 module.exports = {
