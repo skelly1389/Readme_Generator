@@ -1,4 +1,5 @@
-const structure = (data) => data.uTitle;
+const structure = (data) => `${data.uTitle}`
+
 
 module.exports = {
     structure, 
