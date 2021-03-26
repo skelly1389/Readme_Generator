@@ -693,8 +693,8 @@ ${data.uTests}
 
 ## Questions
 For questions and comments reach out to me at:\n
-[Github: ${data.uGithub}](https://github.com/${data.uGithub}) \n
-[Email: ${data.uEmail}](${data.uEmail})
+Github: [${data.uGithub}](https://github.com/${data.uGithub}) \n
+Email: <${data.uEmail}>
 
 `
 }

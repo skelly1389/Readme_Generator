@@ -1,4 +1,4 @@
-# Test Application
+# Test Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -57,7 +57,7 @@ Id nibh tortor id aliquet lectus. Sed lectus vestibulum mattis ullamcorper velit
 ## Questions
 For questions and comments reach out to me at:
 
-[Github: skelly1389](https://github.com/skelly1389) 
+Github: [skelly1389](https://github.com/skelly1389) 
 
-[Email: invertedrdm@gmail.com](invertedrdm@gmail.com)
+Email: <invertedrdm@gmail.com>
 
