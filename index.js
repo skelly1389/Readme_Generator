@@ -22,7 +22,7 @@ inquirer
     {
         type: 'input',
         name: 'uUsage',
-        message: 'How does a user user your app?',
+        message: 'How does a user use your app?',
     },
     {
         type: 'input',
