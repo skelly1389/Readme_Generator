@@ -28,7 +28,7 @@ User must run
 2. Enter information about your app by following the prompts in the terminal
 3. Open SAMPLE.md to view the generated readme file
 
-[Example video available here!](https://google.com)
+[Example video available here!](https://www.youtube.com/watch?v=IObhS9wkEqw)
 
 ## Credits
 
