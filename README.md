@@ -5,7 +5,7 @@
 Manually formatting a readme for homework and projects is repetitive and I need to cement node.js concepts in my brain, so this is an application that generates a readme based on user inputs in the console and kills two birds with one stone. 
 
 ## Table of Contents
-If your README is long, add a table of contents to make it easy for users to find what they need.
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
