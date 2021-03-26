@@ -1,4 +1,4 @@
-# Test Project
+# Test Application
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -55,8 +55,9 @@ Mi tempus imperdiet nulla malesuada pellentesque elit eget. Eget gravida cum soc
 Id nibh tortor id aliquet lectus. Sed lectus vestibulum mattis ullamcorper velit sed. Mauris pharetra et ultrices neque ornare aenean euismod. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Purus sit amet luctus venenatis lectus magna fringilla. Vel pretium lectus quam id leo in. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Ut pharetra sit amet aliquam id diam maecenas. Dolor sit amet consectetur adipiscing elit pellentesque. Massa tincidunt nunc pulvinar sapien et ligula. Dignissim suspendisse in est ante in nibh. Id eu nisl nunc mi ipsum faucibus. Aliquet risus feugiat in ante metus dictum at. Mi proin sed libero enim sed faucibus turpis.
 
 ## Questions
+For questions and comments reach out to me at:
 
 [Github: skelly1389](https://github.com/skelly1389) 
 
-Email: invertedrdm@gmail.com
+[Email: invertedrdm@gmail.com](invertedrdm@gmail.com)
 
