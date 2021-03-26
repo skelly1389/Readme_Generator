@@ -652,7 +652,7 @@ copy of the Program in return for a fee.
 
   END OF TERMS AND CONDITIONS
 
-${data.uTitle}  Copyright (C) ${cYear}  ${data.uGithub}
+${data.uTitle}  Copyright (C) ${cYear}  ${data.uGithub}`
 }}
 
 const structure = (data) => {return `# ${data.uTitle}

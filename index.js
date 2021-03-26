@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const template = require('./template.js');
+const template = require('./utils/template.js');
 
 inquirer
   .prompt([
